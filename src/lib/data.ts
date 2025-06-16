@@ -3,7 +3,7 @@ export const personalInfo = {
   location: "Chennai, India",
   email: "akilan7745@gmail.com",
   github: "https://github.com/AKILANELANGOVAN",
-  linkedin: "https://www.linkedin.com/in/akilan-elangovan",
+  linkedin: "https://www.linkedin.com/in/akilan-elangovan/",
   resume:'/Akilan_Resume.docx'
 };
 
@@ -57,7 +57,9 @@ export const skills = {
     "HTML",
     "CSS",
   ],
+  backendDevelopment: ["Nodejs",],
   databaseAndStorage: ["PostgreSQL", "MySQl"],
+  cloudAndDevOps: ["AWS","Snowflake"],
   toolsAndServices: [
     "Sentry",
     "PlayWright",

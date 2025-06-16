@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Modern Portfolio Template
 
 A sleek, responsive portfolio website built with **Astro**, **React**, and **Tailwind CSS**, featuring modern animations and stunning glassmorphism effects.
@@ -184,3 +185,7 @@ If you found this helpful or inspiring, **please consider leaving a star** ⭐ o
 - [Tailwind CSS](https://tailwindcss.com/)
 - [Framer Motion](https://www.framer.com/motion/)
 - [Lucide Icons](https://lucide.dev/)
+=======
+# Portfilo
+Modern developer portfolio  showcasing projects, skills, and experience using Angular, React, and JavaScript.
+>>>>>>> 61b486af91ac2185f5593cea3e82b8a01b5461ec

@@ -57,9 +57,7 @@ export const skills = {
     "HTML",
     "CSS",
   ],
-  backendDevelopment: ["Nodejs",],
   databaseAndStorage: ["PostgreSQL", "MySQl"],
-  cloudAndDevOps: ["AWS","Snowflake"],
   toolsAndServices: [
     "Sentry",
     "PlayWright",

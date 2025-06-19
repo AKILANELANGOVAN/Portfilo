@@ -4,17 +4,17 @@ export const personalInfo = {
   email: "akilan7745@gmail.com",
   github: "https://github.com/AKILANELANGOVAN",
   linkedin: "https://www.linkedin.com/in/akilan-elangovan/",
-  resume:'/Akilan_Resume.docx'
+  resume:'/aklan_resume.pdf'
 };
 
 export const workExperience = [
   {
     company: "Metaplore Solutions Private Limited",
     location: "Onsite",
-    position: "Software Engineer",
+    position: "Software Developer",
     period: "Aug 2023 - Present",
     achievements: [
-      "Engineered a high-performance Angular application for an enterprise product, utilizing Angular Material and a custom-optimized data table built with CDK and third-party libraries, resulting in a 10% reduction in overall bundle size and improved application efficiency.",
+      "Engineered a high-performance Angular,React application for an enterprise product, utilizing Angular Material and a custom-optimized data table built with CDK and third-party libraries, resulting in a 10% reduction in overall bundle size and improved application efficiency.",
       "Implemented lazy loading and route-level code splitting in Angular applications to optimize performance, reduce initial load time, and improve user experience on large-scale enterprise projects.",
       "Developed a dynamic, role-based authorization system across the application, leveraging user configurations from the portal to ensure secure and flexible access control.",
       "Led development of single-page applications (SPAs) using Angular, applying component-based architecture, responsive UI patterns, and performance optimizations to enhance UX across devices.",
@@ -25,9 +25,6 @@ export const workExperience = [
   
 
   },
-  
-   
-  
 ];
 
 export const education = [
